@@ -6,7 +6,7 @@ const personal = {
   email: 'alexanis120@gmail.com',
   phone: '+91-6002566386',
   location: 'Bengaluru, Karnataka, India',
-  github: 'https://github.com/AnisRah121',
+  github: 'https://github.com/AnisCodex',
   linkedin: 'https://www.linkedin.com/in/anisur-rahman2003/',
 }
 
